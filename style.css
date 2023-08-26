@@ -5,7 +5,7 @@
          url('fonts/Roboto/Roboto-Regular.woff2') format('woff2'),
          url('fonts/Roboto/Roboto-Regular.woff') format('woff'),
          url('fonts/Roboto/Roboto-Regular.ttf') format('truetype');
-  }
+}
 
 body {
     font-family: "Roboto", sans-serif;
@@ -17,17 +17,25 @@ body {
     padding: 0;
 }
 
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
 header {
     margin: 0;
-    padding: 0px 100px;
+    padding: 10px 200px 20px 200px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-image: linear-gradient(to top, #1F2937, #D9D9D9)
 }
 
 .logo {
     font-size: 24px;
     color: #F9FAF8;
+    display: flex;
+    align-items: center;
 }
 
 header ul {
@@ -36,4 +44,29 @@ header ul {
     gap: 32px;
     margin: 0;
     padding: 0;
+}
+
+.hero {
+    padding: 100px 200px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-text p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero img {
+    width: 650px;
+    height: auto;
+    border-radius: 50px;
 }
