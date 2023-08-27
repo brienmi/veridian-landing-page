@@ -128,3 +128,26 @@ h2 {
 .founder div {
     margin-left: 500px;
 }
+
+.action {
+    margin: 0px;
+    padding: 100px 200px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+.signup {
+    margin: 0px;
+    padding: 50px 100px;
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 10px;
+}
+
+.signup a {
+    border-style: solid;
+    border-color: white;
+    width: 40px;
+    height: 10px;
+}
