@@ -46,15 +46,6 @@ header ul {
     padding: 0;
 }
 
-.hero {
-    padding: 100px 200px;
-    margin: 0px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 50px;
-}
-
 h1 {
     font-size: 48px;
     font-weight: 900;
@@ -64,6 +55,20 @@ h2 {
     font-size: 36px;
     font-weight: 900;
     color: #1F2937;
+}
+
+h4 {
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+
+.hero {
+    padding: 100px 200px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
 }
 
 .hero-text p {
@@ -131,23 +136,37 @@ h2 {
 
 .action {
     margin: 0px;
-    padding: 100px 200px;
+    padding: 0px;
     display: flex;
     justify-content: center;
     background-color: white;
 }
 
 .signup {
-    margin: 0px;
-    padding: 50px 100px;
+    margin: 100px;
+    padding: 30px 100px 50px 100px;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    width: 1200px;
     background-color: #3882F6;
     border-radius: 10px;
+    font-size: 18px;
+}
+
+.signup-text {
+    width: 700px;
 }
 
 .signup a {
     border-style: solid;
     border-color: white;
-    width: 40px;
-    height: 10px;
+    display: flex;
+    padding: 10px 40px;
+}
+
+footer {
+    padding: 50px;
+    text-align: center;
 }
