@@ -1,13 +1,21 @@
 # veridian-landing-page
 A landing page for the company Veridian Dynamics.
 
-The goal of this project is to create a proffesional looking landing page. The company Veridian Dynamics is used to put in dummy content to fill out the page. 
+The goal of this project is to create a proffesional looking landing page using only HTML and CSS. The company Veridian Dynamics is used to put in dummy content to fill out the page. 
 
 You may recognize Veridian Dynamics as the company from the television show Better Off Ted.
 
+# Preview images
+Hero and Info sections
+![image](https://github.com/brienmi/veridian-landing-page/assets/127640356/2cdda737-c766-4a04-ad03-e6078c735f93)
 
+Info and Quote sections
+![image](https://github.com/brienmi/veridian-landing-page/assets/127640356/9ec03e70-021b-4a3d-a4c6-4f1087a3b7a9)
 
-Image credits:
+Sign up and footer sections
+![image](https://github.com/brienmi/veridian-landing-page/assets/127640356/f069f87c-e7c1-42e5-a383-7113c3c9f26d)
+
+# Image credits:
 
 veridian-logo - https://betteroffted.fandom.com/wiki/Veridian_Dynamics  
 veridian-icon - https://www.youtube.com/channel/UC5VmIjej1RGF8fh5YpsKv4Q  
